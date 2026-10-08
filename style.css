@@ -11,3 +11,10 @@
 .hero-art:before{content:'';position:absolute;inset:0;z-index:1;background:linear-gradient(90deg,#102b49 0%,rgba(16,43,73,.55) 15%,transparent 45%)}
 .hero-art img{display:block;width:100%;height:100%;max-width:none;aspect-ratio:auto;object-fit:cover;object-position:50% center;border-radius:0;box-shadow:none}
 @media(max-width:850px){.hero{grid-template-columns:1fr;padding-right:0;padding-bottom:0}.hero-inner{padding-right:6%}.hero-art{min-height:340px;height:340px;margin-top:30px}.hero-art:before{background:linear-gradient(180deg,#102b49,transparent 32%)}.hero-art img{width:100%;max-height:none;height:100%;object-fit:cover}.brand{font-size:1.05rem}.mark{width:44px;height:47px}.mark b{font-size:1.4rem}}
+
+/* Approved copper G-FORCE shield + wordmark from visual mockup */
+.header{background:#031934;}
+.brand{display:flex;align-items:center;line-height:1;}
+.header-logo{display:block;width:clamp(215px,26vw,350px);height:auto;object-fit:contain;}
+@media(max-width:850px){.header-logo{width:230px}}
+@media(max-width:560px){.header-logo{width:195px}.header{padding-left:4%;padding-right:4%}}
