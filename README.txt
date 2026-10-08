@@ -1,0 +1,1 @@
+G-Force website starter. Upload index.html, style.css, script.js, and gforce-logo.jpg to the ROOT of your GitHub repository. Cloudflare Pages will redeploy automatically. Contact uses email link, not a form. No testimonials included. Gallery photo uploads/CMS not configured yet.
