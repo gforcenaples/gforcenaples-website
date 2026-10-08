@@ -3,3 +3,5 @@ G-Force multi-page site. Upload ALL files to the ROOT of GitHub repo gforcenaple
 Option A Home Watch update: Essential 1 visit from $79; Preferred 2 from $139; Premier 4 from $249; Complete Care 4 visits + 60 minutes maintenance labor from $329. Materials extra. Prices pending owner approval.
 
 FORM CONNECTED: The Contact Us form posts to https://formspree.io/f/mnpjpbel. After publishing, submit a test inquiry and verify it arrives at George’s Gmail and in Formspree Submissions.
+
+FORM UPDATE: The homepage contact form now submits using JavaScript, stays on the website, shows confirmation and clears all fields on success. If the request fails, fields are preserved and an error is displayed. Upload all files to GitHub root; no Formspree changes needed.
