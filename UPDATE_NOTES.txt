@@ -1,0 +1,1 @@
+Header update: restored Home link before Services across all seven pages; replaced misaligned text dropdown marker with vertically centered SVG chevron. Original full G-Force logo, styling, approved service icons, and existing page content preserved. Preview locally before publishing.

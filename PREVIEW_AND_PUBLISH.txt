@@ -1,0 +1,9 @@
+G-FORCE WEBSITE REVIEW PACKAGE
+
+Preview: extract ZIP and open index.html in a browser.
+
+Updates: blended original hero, clickable five-service overview immediately after hero, four-step process, expanded larger-project vendor coordination, Our Work kept on page but removed from header. Original photos and Meet George section retained.
+
+NOT LIVE: review before uploading. To publish, upload changed files (index.html, style.css, services.html, project-coordination.html) to GitHub repository root. Keep existing photos and other files. Cloudflare Pages deploys after commit if linked. Test desktop/mobile and contact form.
+
+Note: existing service plan prices are proposals and need owner approval.

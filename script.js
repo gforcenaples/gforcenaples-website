@@ -33,3 +33,6 @@ if (contactForm) {
     }
   });
 }
+
+// Services menu works by click, keyboard, and touch; closes on outside click or Escape.
+(()=>{const wrap=document.querySelector('.nav-services');if(!wrap)return;const btn=wrap.querySelector('.services-toggle');const close=()=>{wrap.classList.remove('open');btn.setAttribute('aria-expanded','false')};btn.addEventListener('click',e=>{e.stopPropagation();const open=wrap.classList.toggle('open');btn.setAttribute('aria-expanded',String(open))});document.addEventListener('click',e=>{if(!wrap.contains(e.target))close()});document.addEventListener('keydown',e=>{if(e.key==='Escape'){close();btn.focus()}});wrap.querySelectorAll('a').forEach(a=>a.addEventListener('click',close))})();

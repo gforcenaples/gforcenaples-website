@@ -1,0 +1,1 @@
+Final change: removed the visible Projects & Transformations / Our Work placeholder section from the homepage. All other website files remain unchanged. The section can be restored later from the previous website ZIP or GitHub history.
