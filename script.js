@@ -1,3 +1,1 @@
 document.querySelector('.menu').addEventListener('click',function(){const n=document.querySelector('#nav');const open=n.classList.toggle('open');this.setAttribute('aria-expanded',String(open))});document.querySelectorAll('#nav a').forEach(a=>a.addEventListener('click',()=>document.querySelector('#nav').classList.remove('open')));document.querySelector('#year').textContent=new Date().getFullYear();
-// The form needs a Formspree endpoint before it can send inquiries.
-document.getElementById('contact-form')?.addEventListener('submit',function(event){event.preventDefault();document.getElementById('form-notice').textContent='Online inquiries are not active yet. Please call (239) 961-0248 or email info@gforcenaples.com.';});

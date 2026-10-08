@@ -1,3 +1,5 @@
 G-Force multi-page site. Upload ALL files to the ROOT of GitHub repo gforcenaples-website (not a subfolder). New pages: services.html, home-watch.html, property-maintenance.html, handyman-services.html, project-coordination.html, homeowner-concierge.html. All plan prices are PROPOSED for George approval and must be reviewed before public launch. Contact form is not connected to a delivery service and is disabled; phone and email links work. No testimonials. Future CMS/photo uploads not configured.
 
 Option A Home Watch update: Essential 1 visit from $79; Preferred 2 from $139; Premier 4 from $249; Complete Care 4 visits + 60 minutes maintenance labor from $329. Materials extra. Prices pending owner approval.
+
+FORM CONNECTED: The Contact Us form posts to https://formspree.io/f/mnpjpbel. After publishing, submit a test inquiry and verify it arrives at George’s Gmail and in Formspree Submissions.
