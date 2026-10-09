@@ -1,0 +1,1 @@
+Only services.html was edited; a small page-scoped CSS block was appended to style.css. Five new clean cropped service photos were added. Other HTML pages remain identical to the approved version. Open services.html to review. Not live.
